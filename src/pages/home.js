@@ -30,7 +30,7 @@ const Home =() =>{
           <img src="../src/assets/images/Brandon.jpeg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Brandon Cervantea Rubi</h5>
-            <p class="card-text">Estudiante de la facultad de ingeniería de la UNAM, gran emprendedor y fundador de esta página, amante de las monas chinas y videojuegos, gran persona.</p>
+            <p class="card-text">Estudiante de la facultad de ingeniería de la UNAM, gran emprendedor y coofundador de esta página, amante de las monas chinas y videojuegos, gran persona.</p>
             <a href="https://www.facebook.com/brandon.cervantesrubi" class="btn btn-primary">Ir a su facebook</a>
           </div>
         </div>
@@ -40,7 +40,7 @@ const Home =() =>{
           <img src="../src/assets/images/Leo.jpeg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Leonardo Alexis Lopez Valerio</h5>
-            <p class="card-text">Emprendedor y coofundador de la marca Device así como de esta página de videojuegos, esta alto bronceado y guapo, es millonario y filantropo.</p>
+            <p class="card-text">Emprendedor y coofundador de la marca Levice así como de esta página de videojuegos, esta alto bronceado y guapo, es millonario y filantropo.</p>
             <a href="https://www.facebook.com/leonardo.a.lopez.79" class="btn btn-primary">Ir a su facebook</a>
           </div>
         </div>
@@ -49,7 +49,7 @@ const Home =() =>{
           <img src="../src/assets/images/Bryan1.jpeg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Jesús Bryan Parada Pérez</h5>
-            <p class="card-text">Gran jugador de league of legends, es un gran amante de los videojuegos, su carrera se truncó a causa de los vicios, sin embargo intenta recuperarse con esta página de videojuegos.</p>
+            <p class="card-text">Gran jugador de league of legends, es un gran amante de los videojuegos, su carrera se truncó a causa de los vicios, sin embargo intenta recuperarse con esta página de videojuegos, siendo coofundador.</p>
             <a href="https://www.facebook.com/chicho.bicho" class="btn btn-primary">Ir a su facebook</a>
           </div>
         </div>
@@ -59,7 +59,7 @@ const Home =() =>{
         <img src="../src/assets/images/Ivan1.jpeg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Erick Ivan Pazaran </h5>
-          <p class="card-text">Gran jugador de Football hasta que se rompió el codo, emprendedor y ex multimillonario hasta que las drogas lo conzumieron, ahora intenta salirde eso con esta página..</p>
+          <p class="card-text">Gran jugador de futbol hasta que se rompió el codo, emprendedor y ex multimillonario hasta que las drogas lo conzumieron, ahora intenta salirde eso con esta página.</p>
           <a href="https://www.facebook.com/ivan.pazaran.3" class="btn btn-primary">Ir a su facebook</a>
         </div>
       </div>
