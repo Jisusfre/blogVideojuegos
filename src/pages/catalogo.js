@@ -126,6 +126,11 @@ const Catalogo=()=>{
           </div>
         </div>
       </div>
+      <div class="card text-center">
+        <div class="card-header">
+          Echales un ojo a estos juegos, no te vas a arrepentir 
+        </div>
+      </div>
     `;
     return view;
 }
