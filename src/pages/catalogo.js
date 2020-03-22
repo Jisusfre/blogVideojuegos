@@ -4,7 +4,11 @@ const Catalogo=()=>{
     location.hash = "/catalogo";
     const view=`
     <div style = "margin-top: 50px">
-    <div class="d-inline p-2 bg-dark text-white">9 juegos que consideramos asombrosos</div>
+    <div class="card text-center">
+        <div class="card-header">
+          9 juegos que consideramos asombrosos!
+        </div>
+      </div>
     <div style = "margin-top: 50px">
       <div class="row row-cols-1 row-cols-md-3">
         <div class="col mb-4">
