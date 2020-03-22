@@ -1,19 +1,18 @@
-
-
-
+import Home from '../pages/home'
+import Catalogo from '../pages/catalogo' 
+import Error404 from '../pages/error404'
 
 import getHash from '../utils/getHash'
 import resolveRoutes from '../utils/resolveRoutes'
 
-
-
 const routes = {
-    "/": Login,
-    "/:home": Home,
+    "/": Home,
+    "/error404": Error404,
+    "/catalogo": Catalogo
 };
 
 const router = async () => {
-    const content = document.getElementById("content");
+    const content = document.getElementById("Hola");
 
     let hash = getHash();
     let route = await resolveRoutes(hash);
