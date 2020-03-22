@@ -1,2 +1,2 @@
-import XD from "../pages/prueba"
-document.getElementById("Hola").innerHTML=XD();
+import Home from "../pages/home"
+document.getElementById("Hola").innerHTML=Home();
