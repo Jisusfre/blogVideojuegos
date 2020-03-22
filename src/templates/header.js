@@ -20,7 +20,7 @@ const header=()=>{
             <a class="nav-link" href="#/noticias">Noticias</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#/tienda">Tienda</a>
+            <a class="nav-link" href="#/error404">Tienda</a>
           </li>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <a class="dropdown-item" href="#">Action</a>
